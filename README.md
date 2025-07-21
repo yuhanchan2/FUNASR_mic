@@ -1,7 +1,7 @@
 # FunASR: Installation & Usage Guide
 
 FunASR is a powerful and flexible automatic speech recognition (ASR) toolkit developed by Alibaba. This guide will help you install and run FunASR with ease.
-final_FUNASR makes a small change to the original FUNASR code, which now allows a real-time transcription from a microphone.
+FUNASR_mic makes a small change to the original FUNASR code, which now allows a real-time transcription from a microphone.
 
 ---
 
